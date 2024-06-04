@@ -11,9 +11,9 @@ Olá! Sou Iuri Schmoeller, aqui você encontrará uma coleção de projetos que 
 
 ## 🛠️ Habilidades & Ferramentas
 
-![.NET](https://img.shields.io/badge/05122A?style=flat&logo=dotnet)&nbsp;
-![C](https://img.shields.io/badge/05122A?style=flat&logo=c)&nbsp;
-![C++](https://img.shields.io/badge/05122A?style=flat&logo=cpp)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cpp)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
