@@ -1,5 +1,3 @@
-# 🌟 Bem-vindo ao Meu GitHub! 🌟
-
 Olá! Sou Iuri Schmoeller, aqui você encontrará uma coleção de projetos que venho desenvolvendo, contribuindo e aperfeiçoando ao longo do tempo.
 
 ## 🚀 Sobre Mim
