@@ -4,7 +4,7 @@ Olá! Sou Iuri Schmoeller, aqui você encontrará uma coleção de projetos que 
 
 - 🔭 Atualmente estou trabalhando em **[Uma api para recomendação de cidades baseado no clima](https://github.com/schmoellerIuri/RecomendadorDeCidadesAPI)**
 - 🌱 Aprendendo sobre **[Aprendizado por reforço - POMDPS](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf)**
-- 📫 Como me encontrar: [Seu Email](mailto:schmoeller@alunos.utfpr.edu.br)
+- 📫 Como me encontrar: [Email](mailto:schmoeller@alunos.utfpr.edu.br)
 
 
 ## 🛠️ Habilidades & Ferramentas
