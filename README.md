@@ -25,10 +25,6 @@ Olá! Sou Iuri Schmoeller, aqui você encontrará uma coleção de projetos que 
 ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=schmoellerIuri&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=schmoellerIuri&layout=compact&theme=radical)
 
-## 🔗 Links Úteis
-
-- [LinkedIn](https://www.linkedin.com/in/iuri-schmoeller-9a6b48213/)
-
 ## ✨ Projetos Destacados
 
 ### 📱 [SimpleChat](https://github.com/schmoellerIuri/schmoellerIuri.github.io)
