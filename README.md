@@ -1,13 +1,11 @@
-Olá! Sou Iuri Schmoeller, aqui você encontrará uma coleção de projetos que venho desenvolvendo, contribuindo e aperfeiçoando ao longo do tempo.
+Estudante de Engenharia da Computação com 4 anos de experiência em desenvolvimento de software e sistemas embarcados em projetos acadêmicos, projetos de pesquisa e profissionalmente.
 
-## 🚀 Sobre Mim
-
-- 🔭 Atualmente estou trabalhando em **[Uma api para recomendação de cidades baseado no clima](https://github.com/schmoellerIuri/RecomendadorDeCidadesAPI)**
-- 🌱 Aprendendo sobre **[Aprendizado por reforço - POMDPS](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf)**
-- 📫 Como me encontrar: [Email](mailto:schmoeller@alunos.utfpr.edu.br)
+- Atualmente estou trabalhando em **[Uma api para recomendação de cidades baseado no clima](https://github.com/schmoellerIuri/RecomendadorDeCidadesAPI)**
+- Aprendendo sobre **[Aprendizado por reforço - POMDPS](https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf)**
+- Como me encontrar: [Email](mailto:schmoeller@alunos.utfpr.edu.br)
 
 
-## 🛠️ Habilidades & Ferramentas
+## Habilidades & Ferramentas
 
 ![.NET](https://img.shields.io/badge/--05122A?style=flat&logo=dotnet)&nbsp;
 ![C](https://img.shields.io/badge/--05122A?style=flat&logo=c)&nbsp;
@@ -20,12 +18,12 @@ Olá! Sou Iuri Schmoeller, aqui você encontrará uma coleção de projetos que 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=schmoellerIuri&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=schmoellerIuri&layout=compact&theme=radical)
 
-## ✨ Projetos Destacados
+## Projetos Destacados
 
 ### 📱 [SimpleChat](https://github.com/schmoellerIuri/schmoellerIuri.github.io)
 Aplicação para envio de mensagens em tempo real, com implementação de autenticação nas rotas e comunicação via web sockets.
@@ -36,9 +34,7 @@ API para recomendar cidades próximas a uma localização com base em filtros de
 ### 🔧 [FruitClassifier](https://github.com/schmoellerIuri/FruitClassifier)
 Classificador linear de imagens de frutas utilizando redes neurais convolucionais.
 
-## 💬 Fale Comigo
-
-Gosto de conversar sobre tecnologia, inovação e colaborações em projetos interessantes. Não hesite em me enviar uma mensagem!
+## Fale Comigo
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:schmoeller@alunos.utfpr.edu.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iuri-schmoeller-9a6b48213/)
