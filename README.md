@@ -20,7 +20,6 @@ Estudante de Engenharia da Computação com 4 anos de experiência em desenvolvi
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=schmoellerIuri&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=schmoellerIuri&layout=compact&theme=radical)
 
 ## Projetos Destacados
